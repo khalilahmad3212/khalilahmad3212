@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<div id="header">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
-</div>
+<table id="header" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+        <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
+    </td>
+    <td>
+        <div>
+    <h1>Khalil Ahmad</h1>
+    <p>Full Stack Developer</p>
+  </div>
+    </td>
+  </tr>
+</table>
 
 <div id="badges">
   <a href="your-linkedin-URL">
