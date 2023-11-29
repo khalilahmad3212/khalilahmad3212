@@ -26,6 +26,12 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="500"/>
+</div>
+
+---
+### :man_technologist: About ME:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
