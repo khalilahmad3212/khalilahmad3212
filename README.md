@@ -16,13 +16,13 @@ I'm a software engineer from Pakistan.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khalilahmad3212&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
-
+<!--
  (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 - I write a [blog](https://blog.trnck.dev/)
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
 - [Kyle Daigle](https://github.com/kdaigle)
-
+-->
 
 ### What I do
 
