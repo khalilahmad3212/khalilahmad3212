@@ -35,21 +35,19 @@ development, it is in my opinion the best combination of logical programming and
 ### Web technologies
 
 - JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - TypeScript
 - Next.js
 - Prisma
 - HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 - SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- Node.js
 - Deno
 - WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - PHP
 - MySQL
-- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
+- Microsoft Azure
 
+<!--
 ### Application Development
 
 - Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
@@ -62,7 +60,7 @@ development, it is in my opinion the best combination of logical programming and
   and
   [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
   Expert
-
+-->
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
