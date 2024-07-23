@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer from Pakistan.
+I'm a Full Stack Engineer from Pakistan.
 
 
 <details>
