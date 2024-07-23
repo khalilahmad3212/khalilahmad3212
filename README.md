@@ -1,44 +1,87 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<table id="header" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-        <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
-    </td>
-    <td>
-        <div>
-    <h1>Khalil Ahmad</h1>
-    <p>Full Stack Developer</p>
-  </div>
-    </td>
-  </tr>
-</table>
+I'm a software engineer from Czechia, hacking things together @ [Gitpod](https://gitpod.io/).
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="500"/>
-</div>
+<details>
+<summary>
+  More stuff about me
+</summary>
 
----
-### :man_technologist: About ME:
-Here are some ideas to get you started:
+## Quick overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+#### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+
+ (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+- I write a [blog](https://blog.trnck.dev/)
+
+Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
+- [Kyle Daigle](https://github.com/kdaigle)
+
+
+### What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- TypeScript
+- Next.js
+- Prisma
+- HTML, CSS
+  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
+- SCSS
+- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- Deno
+- WordPress
+  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- PHP
+- MySQL
+- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
+
+### Application Development
+
+- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
+- C++ (sort of)
+
+### Productivity utilities
+
+- Microsoft Office - I am a Certified
+  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
+  and
+  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
+  Expert
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
+| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Czech         | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- Diving into VS Code's code base
+- Typescript's magic
+- Rust's blazing-fastness
+
+## My own dictionary 📕:
+
+| Word / abreviation | Meaning                                                | Note                                             |
+| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+
+</details>
