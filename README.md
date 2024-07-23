@@ -67,8 +67,8 @@ development, it is in my opinion the best combination of logical programming and
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| Urdu        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| English | C2                 |
+| Urdu        | B1 |
 
 ## What I'm currently learning 📚
 
