@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer from Czechia, hacking things together @ [Gitpod](https://gitpod.io/).
+I'm a software engineer from Pakistan.
 
 
 <details>
@@ -26,8 +26,7 @@ Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/
 
 ### What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
+I am really passionate about doing web
 development, it is in my opinion the best combination of logical programming and
 (sometimes) beautiful design.
 
@@ -69,8 +68,7 @@ development, it is in my opinion the best combination of logical programming and
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+| Urdu        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
 
 ## What I'm currently learning 📚
 
